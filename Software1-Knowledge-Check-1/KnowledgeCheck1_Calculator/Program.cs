@@ -78,7 +78,7 @@ namespace KnowledgeCheck1_Calculator
                     }
                     else
                     {
-						Calculator.ErrorMessage();
+		        Calculator.ErrorMessage();
 		    }
                     break;
 
