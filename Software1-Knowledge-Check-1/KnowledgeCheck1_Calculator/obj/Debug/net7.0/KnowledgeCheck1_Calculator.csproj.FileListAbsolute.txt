@@ -1,0 +1,14 @@
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net7.0\KnowledgeCheck1_Calculator.exe
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net7.0\KnowledgeCheck1_Calculator.deps.json
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net7.0\KnowledgeCheck1_Calculator.runtimeconfig.json
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net7.0\KnowledgeCheck1_Calculator.dll
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net7.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\KnowledgeCheck1_Calculator.AssemblyInfo.cs
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\KnowledgeCheck1_Calculator.dll
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\refint\KnowledgeCheck1_Calculator.dll
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\KnowledgeCheck1_Calculator.pdb
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\KnowledgeCheck1_Calculator.genruntimeconfig.cache
+C:\Users\spenc\OneDrive\Documents\CKProjects\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net7.0\ref\KnowledgeCheck1_Calculator.dll
