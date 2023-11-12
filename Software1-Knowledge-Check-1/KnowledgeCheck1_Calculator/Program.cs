@@ -46,25 +46,25 @@ namespace KnowledgeCheck1_Calculator
                     }
                     else
                     {
-						Calculator.ErrorMessage();
-					}
+			Calculator.ErrorMessage();
+		    }
                     break;
 
                 case "3":
-					Console.WriteLine("Enter 2 integers to multiply");
-					var multiplyNumber1 = Console.ReadLine();
-					var multiplyNumber2 = Console.ReadLine();
+		    Console.WriteLine("Enter 2 integers to multiply");
+		    var multiplyNumber1 = Console.ReadLine();
+		    var multiplyNumber2 = Console.ReadLine();
 
-					if (double.TryParse(multiplyNumber1, out double multNumOne) && double.TryParse(multiplyNumber2, out double multNumTwo))
-					{
-						Console.Write($"{multiplyNumber1} * {multiplyNumber2} = ");
-						Console.Write(calculator.Multiply((int)multNumOne, (int)multNumTwo));
-					}
-					else
-					{
-						Calculator.ErrorMessage();
-					}
-					break;
+		    if (double.TryParse(multiplyNumber1, out double multNumOne) && double.TryParse(multiplyNumber2, out double multNumTwo))
+		    {
+		        Console.Write($"{multiplyNumber1} * {multiplyNumber2} = ");
+			Console.Write(calculator.Multiply((int)multNumOne, (int)multNumTwo));
+		    }
+		    else
+		    {
+		        Calculator.ErrorMessage();
+		    }
+		    break;
 
                 case "4":
                     Console.WriteLine("Enter 2 integers to divide");
@@ -79,7 +79,7 @@ namespace KnowledgeCheck1_Calculator
                     else
                     {
 						Calculator.ErrorMessage();
-					}
+		    }
                     break;
 
                 default:
